@@ -44,7 +44,7 @@
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-## Let's connect
+## Let's connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-alvarezv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
