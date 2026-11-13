@@ -12,11 +12,11 @@
 
 ## About me
 
-- BEng Electrical and Electronic Engineering at the University of Nottingham (2025 to 2028), based in London
-- I work where hardware meets machine learning: I build the electronics, then write the models that make sense of what they measure
-- Top 3 final project at the Imperial College London summer programme in AI and Autonomous Industrial Systems
-- Hackathons: OxHack, AgentVerse at UCL, Panic! At The Wrist
-- Working towards a master's in artificial intelligence
+🤓 BEng Electrical and Electronic Engineering at the University of Nottingham (2025 to 2028).
+🔎 Passionate about AI, Machine Learning and Semiconductors
+🏆 Top 3 final project @Imperial summer programme in AI & Autonomous Industrial Systems
+🫡 Hackathonmaxxing: OxHack, AgentVerse at UCL, Panic! At The Wrist
+🕵️‍♂️ Working towards a master's in artificial intelligence
 
 ## Tech stack
 
