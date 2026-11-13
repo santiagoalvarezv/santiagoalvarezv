@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Santiago+Ayrton+Alvarez+Valencia;Made+in+Lima%2C+Peru;Electrical+and+Electronic+Engineering+%40+UoN;AI%2FML+Enthusiast" alt="Santiago Ayrton Alvarez Valencia. Made in Lima, Peru. Electrical and Electronic Engineering @ UoN. AI/ML Enthusiast">
 </p>
 
-<h3 align="center">Visit my website</h3>
+<h3 align="center">🌐 Visit my website</h3>
 
 <p align="center">
   <a href="https://santiagoalvarezv.github.io"><img src="https://img.shields.io/badge/santiagoalvarezv.github.io-1b3058?style=for-the-badge&logo=googlechrome&logoColor=white" alt="santiagoalvarezv.github.io"></a>
