@@ -10,6 +10,8 @@
   <a href="https://santiagoalvarezv.github.io"><img src="https://img.shields.io/badge/santiagoalvarezv.github.io-1b3058?style=for-the-badge&logo=googlechrome&logoColor=white" alt="santiagoalvarezv.github.io"></a>
 </p>
 
+---
+
 ## About me
 
 🤓 BEng Electrical and Electronic Engineering at the University of Nottingham '28 <br>
@@ -18,31 +20,35 @@
 🫡 Hackathonmaxxing: OxHack, AgentVerse at UCL, Panic! At The Wrist<br>
 🕵️‍♂️ Working towards a master's in artificial intelligence
 
+---
+
 ## Tech stack
 
-**👨‍💻 Programming Languages**
+### 👨‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**🤖 AI/ML & Data Science**
+### 🤖 AI/ML & Data Science
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 
-**👨‍🏭 Embedded and hardware**
+### 👨‍🏭 Embedded and hardware
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![CPLD](https://img.shields.io/badge/CPLD-1b3058?style=for-the-badge)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
-**🗂️ Data Management and Backend**
+### 🗂️ Data Management and Backend
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+---
 
 ## Let's connect!
 
