@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1>Hi, I'm Santiago</h1>
 
-<!--
-**santiagoalvarezv/santiagoalvarezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Electrical &amp; Electronic Engineering student @ University of Nottingham</b><br>
+  I wire things up, then teach them to think.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://santiagoalvarezv.github.io"><img src="https://img.shields.io/badge/santiagoalvarezv.github.io-1b3058?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- BEng Electrical and Electronic Engineering at the University of Nottingham (2025 to 2028), based in London
+- I work where hardware meets machine learning: I build the electronics, then write the models that make sense of what they measure
+- Top 3 final project at the Imperial College London summer programme in AI and Autonomous Industrial Systems
+- Hackathons: OxHack, AgentVerse at UCL, Panic! At The Wrist
+- Working towards a master's in artificial intelligence
+
+## Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI and machine learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+
+**Embedded and hardware**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![CPLD](https://img.shields.io/badge/CPLD-1b3058?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+
+**Data**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+## Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiago-alvarezv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://devpost.com/"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>
+  <a href="mailto:eeysa23@nottingham.ac.uk"><img src="https://img.shields.io/badge/Email-1b3058?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+</p>
