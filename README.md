@@ -1,12 +1,13 @@
 <h1>Hi, I'm Santiago</h1>
 
 <p align="center">
-  <b>Electrical &amp; Electronic Engineering student @ University of Nottingham</b><br>
-  I wire things up, then teach them to think.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Santiago+Ayrton+Alvarez+Valencia;Electrical+and+Electronic+Engineering+%40+UoN" alt="Santiago Ayrton Alvarez Valencia, Electrical and Electronic Engineering @ UoN">
 </p>
 
+<h3 align="center">Visit my website</h3>
+
 <p align="center">
-  <a href="https://santiagoalvarezv.github.io"><img src="https://img.shields.io/badge/santiagoalvarezv.github.io-1b3058?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website"></a>
+  <a href="https://santiagoalvarezv.github.io"><img src="https://img.shields.io/badge/santiagoalvarezv.github.io-1b3058?style=for-the-badge&logo=googlechrome&logoColor=white" alt="santiagoalvarezv.github.io"></a>
 </p>
 
 ## About me
