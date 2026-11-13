@@ -1,7 +1,7 @@
 <h1>Hi, I'm Santiago</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Santiago+Ayrton+Alvarez+Valencia;Electrical+and+Electronic+Engineering+%40+UoN" alt="Santiago Ayrton Alvarez Valencia, Electrical and Electronic Engineering @ UoN">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Santiago+Ayrton+Alvarez+Valencia;Made+in+Peru+%F0%9F%87%B5%F0%9F%87%AA;Electrical+and+Electronic+Engineering+%40+UoN;AI%2FML+Enthusiast" alt="Santiago Ayrton Alvarez Valencia. Made in Peru. Electrical and Electronic Engineering @ UoN. AI/ML Enthusiast">
 </p>
 
 <h3 align="center">Visit my website</h3>
