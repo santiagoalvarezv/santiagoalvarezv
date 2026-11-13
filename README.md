@@ -12,7 +12,7 @@
 
 ## About me
 
-🤓 BEng Electrical and Electronic Engineering at the University of Nottingham (2025 to 2028).<br>
+🤓 BEng Electrical and Electronic Engineering at the University of Nottingham '28 <br>
 🔎 Passionate about AI, Machine Learning and Semiconductors<br>
 🏆 Top 3 final project @Imperial summer programme in AI & Autonomous Industrial Systems<br>
 🫡 Hackathonmaxxing: OxHack, AgentVerse at UCL, Panic! At The Wrist<br>
