@@ -7,7 +7,7 @@
 <h3 align="center">🌐 Visit my website</h3>
 
 <p align="center">
-  <a href="https://santiagoalvarezv.github.io"><img src="https://img.shields.io/badge/santiagoalvarezv.github.io-1b3058?style=for-the-badge&logo=googlechrome&logoColor=white" alt="santiagoalvarezv.github.io"></a>
+  <a href="https://santiagoalvarezv.com"><img src="https://img.shields.io/badge/santiagoalvarezv.com-1b3058?style=for-the-badge&logo=googlechrome&logoColor=white" alt="santiagoalvarezv.com"></a>
 </p>
 
 ---
@@ -54,6 +54,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-alvarezv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://devpost.com/"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>
+  <a href="https://devpost.com/santiagoalvarezvalencia28"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>
   <a href="mailto:eeysa23@nottingham.ac.uk"><img src="https://img.shields.io/badge/Email-1b3058?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
